@@ -1,4 +1,5 @@
-package constuctor;
+//this example code for using constructor
+package constructor;
 
 public class Pen {
 	String colour;
@@ -20,3 +21,4 @@ public class Pen {
 		System.out.println("pen3 details:"+ "\n" +pen3.colour + "-" +pen3.cost);
 	}
 }
+
